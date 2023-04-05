@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SPENCER058
 - 👀 I’m interested in Gaming, Animations, Film, Music, And many more
-- 🌱 I’m currently learning OOP, and web programming
+- 🌱 I’m currently learning Unity and Game Programming
 - 💞️ I’m looking to collaborate on game development
 - 📫 How to reach me galihpanji058@student.uns.ac.id
 
