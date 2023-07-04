@@ -1,3 +1,4 @@
+<p align="center"> <img src="https://lanyard.cnrad.dev/api/863631651527065600" alt="Discord" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SPENCER058&label=Profile%20views&color=980eb4&style=flat" alt="SPENCER058" /> </p>
 
