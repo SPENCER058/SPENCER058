@@ -20,7 +20,7 @@
 <!--- Github Streak --->
 <p align=center> 
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img align="center" src="https://streak-stats.demolab.com?user=SPENCER058&theme=outrun&fire=EB0000&card_width=900" alt="SPENCER058's github streak" />
+    <img align="center" src="https://streak-stats.demolab.com?user=SPENCER058&theme=outrun&fire=EB0000&card_width=800" alt="SPENCER058's github streak" />
   </a>
 </p>
 
