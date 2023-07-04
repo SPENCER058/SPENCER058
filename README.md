@@ -7,6 +7,8 @@
   </a>
 </p>
 
+---
+
 <h2>👀 About Me</h2>
 
 - 🎮 Interested in Gaming, Animations, Movies, Music, And many more
@@ -17,7 +19,11 @@
 ---
 
 <!--- Github Trophy --->
-<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <h2>
+    🏆 Trophy Shelf
+  </h2>
+</a>
 <p align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img width=750 src="https://github-profile-trophy.vercel.app/?username=SPENCER058&theme=algolia&column=7&count_private=true" alt="SPENCER058's gitHub trophies" />
@@ -25,7 +31,13 @@
 </p>
 
 ---
-<a><h2>📊 Github Statistic</h2></a>
+
+<a>
+  <h2>
+    ⚔ Performance Stats
+  </h2>
+</a>
+
 <!--- Github Streak --->
 <p align=center> 
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -40,7 +52,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPENCER058&layout=compact&card_width=300&theme=outrun&count_private=true&langs_count=10" alt="SPENCER058's most used language"/>
   </a>
 </p>
-
 
 ---
 
