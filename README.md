@@ -1,3 +1,12 @@
+<!--- Github Viewer Counter --->
+<p align=center> 
+  <a href="https://github.com/SPENCER058/SPENCER058/blob/main/README.md"> 
+    <img src="https://komarev.com/ghpvc/?username=SPENCER058&label=Profile%20views&color=980eb4&style=flat" alt="SPENCER058 view count" /> 
+  </a>
+</p>
+
+---
+
 <!--- Github Trophy --->
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <p align=center>
@@ -7,7 +16,7 @@
 </p>
 
 ---
-
+<a><h2>📊 Github Stat</h2></a>
 <!--- Github Streak --->
 <p align=center> 
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -17,24 +26,21 @@
 
 <!--- Github Stat --->
 <p align=center> 
-  <a href="https://github.com/SPENCER058/SPENCER058/blob/main/README.md">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=SPENCER058&show_icons=true&include_all_commits=true&theme=outrun&count_private=true" alt="SPENCER058's github stats" />
   </a>
 </p>
 
 <!--- Github Used Language --->
 <p align=center>
-  <a href="https://github.com/SPENCER058/SPENCER058/blob/main/README.md">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPENCER058&layout=compact&theme=outrun&count_private=true&langs_count=8" alt="SPENCER058's most used language"/>
   </a>
 </p>
 
-<!--- Github Viewer Counter --->
-<p align=center> 
-  <a href="https://github.com/SPENCER058/SPENCER058/blob/main/README.md"> 
-    <img src="https://komarev.com/ghpvc/?username=SPENCER058&label=Profile%20views&color=980eb4&style=flat" alt="SPENCER058 view count" /> 
-  </a>
-</p>
+
+
+---
 
 <!---
 SPENCER058/SPENCER058 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
