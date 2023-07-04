@@ -7,11 +7,11 @@
   </a>
 </p>
 
-<h2>👀 Little bit about me</h2>
+<h2>👀 About Me</h2>
 
-- 🎮 I’m interested in Gaming, Animations, Movies, Music, And many more
-- 🎓 I’m currently learning Unity and Game Programming
-- 🖥️ I’m looking to collaborate on game development
+- 🎮 Interested in Gaming, Animations, Movies, Music, And many more
+- 🎓 Currently learning Unity and Game Programming
+- 🖥️ Looking to collaborate on game development
 - 📫 You can reach me via email or linkedin
 
 ---
