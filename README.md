@@ -1,3 +1,5 @@
+<h1 align="center">Hey there, You found Me! 🥳</h1>
+
 - 👋 Hi, I’m @SPENCER058
 - 👀 I’m interested in Gaming, Animations, Film, Music, And many more
 - 🌱 I’m currently learning Unity and Game Programming
@@ -22,7 +24,7 @@
 </p>
 
 ---
-<a><h2>📊 Github Stat</h2></a>
+<a><h2>📊 Github Statistic</h2></a>
 <!--- Github Streak --->
 <p align=center> 
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
