@@ -1,9 +1,9 @@
-<h1 align="center">Hey there, You found Me! 🥳</h1>
+<h1 align="center">Hi there, You found Me! 🥳</h1>
 
 <!--- Github Viewer Counter --->
 <p align=center> 
-  <a href="https://github.com/SPENCER058/SPENCER058/blob/main/README.md"> 
-    <img src="https://komarev.com/ghpvc/?username=SPENCER058&label=Profile%20views&color=980eb4&style=flat" alt="SPENCER058 view count" /> 
+  <a href="https://github.com/antonkomarev/github-profile-views-counter"> 
+    <img src="https://komarev.com/ghpvc/?username=SPENCER058&label=Profile%20views&color=121b80&style=flat&" alt="SPENCER058 view count" /> 
   </a>
 </p>
 
