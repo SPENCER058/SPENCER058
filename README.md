@@ -1,13 +1,16 @@
 <!--- Github Trophy --->
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <p align=center>
-  <a href="https://github.com/SPENCER058/SPENCER058/blob/main/README.md">
-    <img src="https://github-profile-trophy.vercel.app/?username=SPENCER058&theme=algolia&count_private=true&row=1" alt="SPENCER058's gitHub trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width=1000 src="https://github-profile-trophy.vercel.app/?username=SPENCER058&theme=algolia&column=7&count_private=true" alt="SPENCER058's gitHub trophies" />
   </a>
 </p>
 
+---
+
 <!--- Github Streak --->
 <p align=center> 
-  <a href="https://github.com/SPENCER058/SPENCER058/blob/main/README.md">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img align="center" src="https://streak-stats.demolab.com?user=SPENCER058&theme=outrun&fire=EB0000" alt="SPENCER058's github streak" />
   </a>
 </p>
