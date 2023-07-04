@@ -1,17 +1,17 @@
 <h1 align="center">Hey there, You found Me! 🥳</h1>
 
-- 👋 Hi, I’m @SPENCER058
-- 👀 I’m interested in Gaming, Animations, Film, Music, And many more
-- 🌱 I’m currently learning Unity and Game Programming
-- 💞️ I’m looking to collaborate on game development
-- 📫 How to reach me galihpanji058@student.uns.ac.id
-
 <!--- Github Viewer Counter --->
 <p align=center> 
   <a href="https://github.com/SPENCER058/SPENCER058/blob/main/README.md"> 
     <img src="https://komarev.com/ghpvc/?username=SPENCER058&label=Profile%20views&color=980eb4&style=flat" alt="SPENCER058 view count" /> 
   </a>
 </p>
+
+<h2>👀 Little bit about me</h2>
+- 🎮 I’m interested in Gaming, Animations, Movies, Music, And many more
+- 🎓 I’m currently learning Unity and Game Programming
+- 🖥️ I’m looking to collaborate on game development
+- 📫 You can reach me via email or linkedin
 
 ---
 
