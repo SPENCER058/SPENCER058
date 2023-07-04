@@ -1,3 +1,10 @@
+<!--- Github Trophy --->
+<p align=center>
+  <a href="https://github.com/SPENCER058/SPENCER058/blob/main/README.md">
+    <img src="https://github-profile-trophy.vercel.app/?username=SPENCER058&theme=algolia&count_private=true&row=1" alt="SPENCER058's gitHub trophies" />
+  </a>
+</p>
+
 <!--- Github Streak --->
 <p align=center> 
   <a href="https://github.com/SPENCER058/SPENCER058/blob/main/README.md">
@@ -16,13 +23,6 @@
 <p align=center>
   <a href="https://github.com/SPENCER058/SPENCER058/blob/main/README.md">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPENCER058&layout=compact&theme=outrun&count_private=true&langs_count=8" alt="SPENCER058's most used language"/>
-  </a>
-</p>
-
-<!--- Github Trophy --->
-<p align=center>
-  <a href="https://github.com/SPENCER058/SPENCER058/blob/main/README.md">
-    <img src="https://github-profile-trophy.vercel.app/?username=SPENCER058&theme=algolia&count_private=true" alt="SPENCER058's gitHub trophies" />
   </a>
 </p>
 
