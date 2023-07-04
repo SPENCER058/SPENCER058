@@ -1,13 +1,36 @@
-<p align="center"> <img src="https://lanyard.cnrad.dev/api/863631651527065600" alt="Discord" /> </p>
+<!--- Github Streak --->
+<p align=center> 
+  <a href="https://github.com/SPENCER058/SPENCER058/blob/main/README.md">
+    <img align="center" src="https://streak-stats.demolab.com?user=SPENCER058&theme=outrun&fire=EB0000" alt="SPENCER058's github streak" />
+  </a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SPENCER058&label=Profile%20views&color=980eb4&style=flat" alt="SPENCER058" /> </p>
+<!--- Github Stat --->
+<p align=center> 
+  <a href="https://github.com/SPENCER058/SPENCER058/blob/main/README.md">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SPENCER058&show_icons=true&include_all_commits=true&theme=outrun&count_private=true" alt="SPENCER058's github stats" />
+  </a>
+</p>
 
-| <a href="https://github.com/SPENCER058/SPENCER058/blob/main/README.md"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SPENCER058&show_icons=true&include_all_commits=true&theme=outrun&count_private=true" alt="SPENCER058's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPENCER058&layout=compact&theme=outrun&count_private=true&langs_count=8" /></a> | 
-| ------------- | ------------- |
-[![GitHub Streak](https://streak-stats.demolab.com?user=SPENCER058&theme=outrun&fire=EB0000)](https://git.io/streak-stats)
+<!--- Github Used Language --->
+<p align=center>
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPENCER058&layout=compact&theme=outrun&count_private=true&langs_count=8" alt="SPENCER058's most used language"/>
+  </a>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SPENCER058&theme=algolia&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
+<!--- Github Trophy --->
+<p align=center>
+  <a>
+    <img src="https://github-profile-trophy.vercel.app/?username=SPENCER058&theme=algolia&count_private=true" alt="SPENCER058's gitHub trophies" />
+  </a>
+</p>
 
+
+<!--- Github Viewer Counter --->
+<p align=center> 
+  <img src="https://komarev.com/ghpvc/?username=SPENCER058&label=Profile%20views&color=980eb4&style=flat" alt="SPENCER058 view count" /> 
+</p>
 
 <!---
 SPENCER058/SPENCER058 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
