@@ -11,7 +11,7 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <p align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width=900 src="https://github-profile-trophy.vercel.app/?username=SPENCER058&theme=algolia&column=7&count_private=true" alt="SPENCER058's gitHub trophies" />
+    <img width=900 src="https://github-profile-trophy.vercel.app/?username=SPENCER058&theme=algolia&column=7&count_private=true&card_width=750" alt="SPENCER058's gitHub trophies" />
   </a>
 </p>
 
