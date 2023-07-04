@@ -8,6 +8,7 @@
 </p>
 
 <h2>👀 Little bit about me</h2>
+
 - 🎮 I’m interested in Gaming, Animations, Movies, Music, And many more
 - 🎓 I’m currently learning Unity and Game Programming
 - 🖥️ I’m looking to collaborate on game development
