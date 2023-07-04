@@ -15,9 +15,14 @@
 
 ---
 
-<h2>👀 About Me</h2>
+<!--- About Me --->
+<a>
+  <h2>
+    👀 About Me
+  </h2>
+</a>
 
-- 🎮 Interested in Gaming, Animations, Movies, Music, And many more
+- 🎮 Interested in Gaming, Animations, Movies, Music, and many more
 - 🎓 Currently learning Unity and Game Programming
 - 🖥️ Looking to collaborate on game development
 - 📫 You can reach me via email or linkedin
@@ -38,6 +43,7 @@
 
 ---
 
+<!--- Performance Stats --->
 <a>
   <h2>
     ⚔ Performance Stats
