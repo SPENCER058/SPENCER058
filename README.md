@@ -11,7 +11,7 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <p align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width=1000 src="https://github-profile-trophy.vercel.app/?username=SPENCER058&theme=algolia&column=7&count_private=true" alt="SPENCER058's gitHub trophies" />
+    <img width=900 src="https://github-profile-trophy.vercel.app/?username=SPENCER058&theme=algolia&column=7&count_private=true" alt="SPENCER058's gitHub trophies" />
   </a>
 </p>
 
@@ -20,15 +20,15 @@
 <!--- Github Streak --->
 <p align=center> 
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img align="center" src="https://streak-stats.demolab.com?user=SPENCER058&theme=outrun&fire=EB0000&card_width=1000" alt="SPENCER058's github streak" />
+    <img align="center" src="https://streak-stats.demolab.com?user=SPENCER058&theme=outrun&fire=EB0000&card_width=900" alt="SPENCER058's github streak" />
   </a>
 </p>
 
 <!--- Github Stat Used Language --->
 <p align=center> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SPENCER058&show_icons=true&include_all_commits=true&theme=outrun&count_private=true"       alt="SPENCER058's github stats" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPENCER058&layout=compact&theme=outrun&count_private=true&langs_count=8" alt="SPENCER058's most used language"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SPENCER058&show_icons=true&include_all_commits=true&card_width=500&theme=outrun&count_private=true"       alt="SPENCER058's github stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPENCER058&layout=compact&card_width=400&theme=outrun&count_private=true&langs_count=10" alt="SPENCER058's most used language"/>
   </a>
 </p>
 
