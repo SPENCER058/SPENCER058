@@ -25,7 +25,7 @@
 - 🎮 Interested in Gaming, Animations, Movies, Music, and many more
 - 🎓 Currently learning Unity and Game Programming
 - 🖥️ Looking to collaborate on game development
-- 📫 You can reach me via [E-mail](mailto:galihpanji058@gmail.com) or [Linkedin](linkedin.com/in/galihpanji058)
+- 📫 You can reach me via [E-mail](mailto:galihpanji058@gmail.com) or [Linkedin](https://www.linkedin.com/in/galihpanji058)
 
 ---
 
