@@ -3,7 +3,6 @@
 <!--- Github Viewer Counter --->
 <p align=center> 
   <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"> 
-    <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white" alt="SPENCER058 Godot" />
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="SPENCER058 Unity" /> 
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="SPENCER058 CSharp" /> 
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="SPENCER058 VSStudio" /> 
