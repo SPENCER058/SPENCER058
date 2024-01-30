@@ -59,10 +59,14 @@
 
 <!--- Github Stat Used Language --->
 <p align=center> 
+  /*
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=SPENCER058&show_icons=true&include_all_commits=true&card_width=400&theme=outrun&count_private=true"       alt="SPENCER058's github stats" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPENCER058&layout=compact&card_width=300&theme=outrun&count_private=true&langs_count=10" alt="SPENCER058's most used language"/>
   </a>
+  */
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SPENCER058)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
 
 ---
