@@ -2,19 +2,30 @@
 
 <!--- Github Viewer Counter --->
 <p align=center> 
-  <a href="https://github.com/antonkomarev/github-profile-views-counter"> 
-    <img src="https://komarev.com/ghpvc/?username=SPENCER058&label=Profile%20views&color=121b80&style=flat&" alt="SPENCER058 view count" /> 
+  <a> 
+    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="SPENCER058 Unity" /> 
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="SPENCER058 CSharp" /> 
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="SPENCER058 VSStudio" /> 
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="SPENCER058 Github" /> 
+  </a>
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=SPENCER058&label=Profile%20views&color=121b80&style=for-the-badge" alt="SPENCER058 view count" /> 
   </a>
 </p>
 
 ---
 
-<h2>👀 About Me</h2>
+<!--- About Me --->
+<a>
+  <h2>
+    👀 About Me
+  </h2>
+</a>
 
-- 🎮 Interested in Gaming, Animations, Movies, Music, And many more
-- 🎓 Currently learning Unity and Game Programming
+- 🎮 Interested in Gaming, Animations, Movies, Music, and many more
+- 🎓 Currently learning Godot Engine and Game Programming
 - 🖥️ Looking to collaborate on game development
-- 📫 You can reach me via email or linkedin
+- 📫 You can reach me via [E-mail](mailto:galihpanjidev@gmail.com) or [Linkedin](https://www.linkedin.com/in/galihpanji058)
 
 ---
 
@@ -32,6 +43,7 @@
 
 ---
 
+<!--- Performance Stats --->
 <a>
   <h2>
     ⚔ Performance Stats
