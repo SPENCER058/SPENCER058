@@ -40,14 +40,14 @@
 ---
 
 <!--- Github Trophy --->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+<a href="https://github.com/ryo-ma/github-profile-trophy" text-decoration=none>
   <h2>
     🏆 Trophy Shelf
   </h2>
 </a>
-<p align-content=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width=750 src="https://github-profile-trophy.vercel.app/?username=SPENCER058&theme=algolia&column=7&count_private=true" alt="SPENCER058's gitHub trophies" />
+<p align=center>
+  <a align=center href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width=750 src="https://github-profile-trophy.vercel.app/?username=SPENCER058&theme=algolia&column=8&count_private=true" alt="SPENCER058's gitHub trophies" />
   </a>
 </p>
 
