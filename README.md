@@ -40,7 +40,7 @@
 ---
 
 <!--- Github Trophy --->
-<a href="https://github.com/ryo-ma/github-profile-trophy" text-decoration=none>
+<a>
   <h2>
     🏆 Trophy Shelf
   </h2>
