@@ -1,12 +1,22 @@
 <h1 align="center">Hi there, You found Me! 🥳</h1>
 
 <!--- Github Viewer Counter --->
+<h3 align=center>
+  💻Tech Stack💻
+</h3>
 <p align=center> 
   <a> 
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="SPENCER058 Unity" /> 
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="SPENCER058 CSharp" /> 
-    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="SPENCER058 VSStudio" /> 
+    <img src="https://img.shields.io/badge/C_Sharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="SPENCER058 CSharp" /> 
+    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="SPENCER058 HTML" /> 
+    <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="SPENCER058 CSS" /> 
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="SPENCER058 Visual Studio" /> 
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="SPENCER058 Visual Studio Code" /> 
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="SPENCER058 Github" /> 
+    <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white" alt="SPENCER058 Sourcetree" /> 
+    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="SPENCER058 Trello" />
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="SPENCER058 Notion" />
+    <img src="https://img.shields.io/badge/-ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="SPENCER058 ClickUp" />
   </a>
   <a>
     <img src="https://komarev.com/ghpvc/?username=SPENCER058&label=Profile%20views&color=121b80&style=for-the-badge" alt="SPENCER058 view count" /> 
@@ -35,7 +45,7 @@
     🏆 Trophy Shelf
   </h2>
 </a>
-<p align=center>
+<p align-content=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img width=750 src="https://github-profile-trophy.vercel.app/?username=SPENCER058&theme=algolia&column=7&count_private=true" alt="SPENCER058's gitHub trophies" />
   </a>
