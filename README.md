@@ -33,7 +33,7 @@
 </a>
 
 - 🎮 Interested in Gaming, Animations, Movies, Music, and many more
-- 🎓 Currently learning Godot Engine and Game Programming
+- 🎓 Currently learning Game programming
 - 🖥️ Looking to collaborate on game development
 - 📫 You can reach me via [E-mail](mailto:galihpanjidev@gmail.com) or [Linkedin](https://www.linkedin.com/in/galihpanji058)
 
