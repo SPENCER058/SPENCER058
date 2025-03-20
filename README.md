@@ -42,7 +42,7 @@
 </a>
 
 - 🎮 Interested in Gaming, Animations, Movies, Music, and many more
-- 🎓 Game Programmer, Fullstack, Software Developer
+- 🎓 Game Programmer, Fullstack Web Developer, Software Engineer
 - 🖥️ Looking to collaborate on game development
 - 📫 You can reach me via [E-mail](mailto:galihpanjidev@gmail.com) or [Linkedin](https://www.linkedin.com/in/galihpanji058)
 
@@ -79,7 +79,7 @@
 <!--- Github Stat Used Language --->
 <p align=center> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SPENCER058&show_icons=true&include_all_commits=true&card_width=400&theme=outrun&count_private=true"       alt="SPENCER058's github stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SPENCER058&show_icons=true&include_all_commits=true&card_width=400&theme=outrun&count_private=true" alt="SPENCER058's github stats" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPENCER058&layout=compact&card_width=300&theme=outrun&count_private=true&langs_count=10" alt="SPENCER058's most used language"/>
   </a>
 </p>
