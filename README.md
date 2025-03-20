@@ -7,9 +7,18 @@
 <p align=center> 
   <a> 
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="SPENCER058 Unity" /> 
-    <img src="https://img.shields.io/badge/C_Sharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="SPENCER058 CSharp" /> 
-    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="SPENCER058 HTML" /> 
-    <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="SPENCER058 CSS" /> 
+    <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="SPENCER058 CSharp" /> 
+    <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="SPENCER058 HTML" /> 
+    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="SPENCER058 CSS" /> 
+    <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=black" alt="SPENCER058 Tailwind" /> 
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="SPENCER058 Javascript" /> 
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="SPENCER058 React.js" /> 
+    <img src="https://img.shields.io/badge/Next-100000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="SPENCER058 Next.js" /> 
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="SPENCER058 Laravel" /> 
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SPENCER058 MySQL" /> 
+    <img src="https://img.shields.io/badge/Postgre-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SPENCER058 Postgre" /> 
+    <img src="https://img.shields.io/badge/Mongo-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="SPENCER058 Mongo" /> 
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SPENCER058 SQLite" /> 
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="SPENCER058 Visual Studio" /> 
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="SPENCER058 Visual Studio Code" /> 
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="SPENCER058 Github" /> 
@@ -33,7 +42,7 @@
 </a>
 
 - 🎮 Interested in Gaming, Animations, Movies, Music, and many more
-- 🎓 Currently learning Game programming
+- 🎓 Game Programmer, Fullstack, Software Developer
 - 🖥️ Looking to collaborate on game development
 - 📫 You can reach me via [E-mail](mailto:galihpanjidev@gmail.com) or [Linkedin](https://www.linkedin.com/in/galihpanji058)
 
