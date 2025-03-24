@@ -14,8 +14,8 @@
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="SPENCER058 Javascript" /> 
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="SPENCER058 React.js" /> 
     <img src="https://img.shields.io/badge/Next-100000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="SPENCER058 Next.js" /> 
-    <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black" alt="SPENCER058 Typescript" /> 
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=black" alt="SPENCER058 PHP" /> 
+    <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="SPENCER058 Typescript" /> 
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="SPENCER058 PHP" /> 
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="SPENCER058 Laravel" /> 
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SPENCER058 MySQL" /> 
     <img src="https://img.shields.io/badge/Postgre-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SPENCER058 Postgre" /> 
