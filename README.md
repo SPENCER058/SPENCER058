@@ -82,7 +82,7 @@
 <p align=center> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://spencer058-github-readme-stat.vercel.app/api?username=SPENCER058&show_icons=true&include_all_commits=true&card_width=400&theme=outrun&count_private=true&v=2" alt="SPENCER058's github stats"/>
-    <img align="center" src="https://spencer058-github-readme-stat.vercel.app/api/top-langs/?username=SPENCER058&layout=compact&card_width=300&theme=outrun&count_private=true&langs_count=10&v=2" alt="SPENCER058's most used language"/>
+    <img align="center" src="https://spencer058-github-readme-stat.vercel.app/api/top-langs/?username=SPENCER058&layout=compact&card_width=300&theme=outrun&count_private=true&langs_count=8&v=2" alt="SPENCER058's most used language"/>
   </a>
 </p>
 
